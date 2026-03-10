@@ -1,0 +1,8 @@
+module maybe-r (*)
+
+import maybe
+import root-r
+
+source R from "R/maybe.R"
+    ( "morloc_fromMaybe" as fromMaybe
+    )

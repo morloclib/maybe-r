@@ -1,0 +1,11 @@
+name: maybe-r
+version: 0.1.0
+homepage: https://github.com/morloclib/maybe-r
+synopsis: R implementations for maybe operations
+description: R implementations for maybe operations
+category: data
+license: MIT
+author: "Zebulun Arendsee"
+maintainer: "z@morloc.io"
+github: https://github.com/morloclib/maybe-r
+bug-reports: https://github.com/morloclib/maybe-r
